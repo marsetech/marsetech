@@ -1,16 +1,19 @@
-## Hi there 👋
+<img width=100%
+  src="./assets/hero-banner.webp"
+  alt="hero banner"
+/>
 
-<!--
-**marcello-oliva/marcello-oliva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hi, I'm Marcello! 👋
+</h1>
+<h3 align="center">
+  Junior Full Stack Developer・Linux Tooling・Developer Experience
+</h3>
+<p align="center">
+  <i>Build it clean, document it well, ship it anyway.</i>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%"
+  src="./assets/section-divider.svg"
+  alt="section divider"
+/>
