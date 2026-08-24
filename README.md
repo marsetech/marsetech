@@ -49,3 +49,42 @@ Most of my hands-on learning happens outside tutorials: building real tools, bre
   src="./assets/section-divider.svg"
   alt="section divider"
 />
+
+# Tech Stack 🛠️
+
+<h2 align="center">
+
+  Frontend
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+
+</h2>
+
+<h2 align="center">
+
+  Systems & Workflow
+
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions" />
+
+</h2>
+
+<h2 align="center">
+
+  Languages & Tools
+
+  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,swift" />
+
+</h2>
+
+<h2 align="center">
+
+  Documentation
+
+  <img src="https://skillicons.dev/icons?i=markdown,latex" />
+
+</h2>
+
+<img width="100%"
+  src="./assets/section-divider.svg"
+  alt="section divider"
+/>
