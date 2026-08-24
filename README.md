@@ -52,37 +52,35 @@ Most of my hands-on learning happens outside tutorials: building real tools, bre
 
 # Tech Stack 🛠️
 
-<h2 align="center">
+### Frontend
 
-  Frontend
+![HTML5](https://img.shields.io/badge/HTML5-8C3A40?style=for-the-badge&logo=html5&logoColor=F2DCC9)
+![CSS3](https://img.shields.io/badge/CSS3-8C3A40?style=for-the-badge&logo=css3&logoColor=F2DCC9)
+![JavaScript](https://img.shields.io/badge/JavaScript-8C3A40?style=for-the-badge&logo=javascript&logoColor=F2DCC9)
+![TypeScript](https://img.shields.io/badge/TypeScript-8C3A40?style=for-the-badge&logo=typescript&logoColor=F2DCC9)
+![React](https://img.shields.io/badge/React-8C3A40?style=for-the-badge&logo=react&logoColor=F2DCC9)
+![Next.js](https://img.shields.io/badge/Next.js-8C3A40?style=for-the-badge&logo=nextdotjs&logoColor=F2DCC9)
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+### Languages & Tools
 
-</h2>
+![C](https://img.shields.io/badge/C-8C3A40?style=for-the-badge&logo=c&logoColor=F2DCC9)
+![C++](https://img.shields.io/badge/C%2B%2B-8C3A40?style=for-the-badge&logo=cplusplus&logoColor=F2DCC9)
+![Python](https://img.shields.io/badge/Python-8C3A40?style=for-the-badge&logo=python&logoColor=F2DCC9)
+![CMake](https://img.shields.io/badge/CMake-8C3A40?style=for-the-badge&logo=cmake&logoColor=F2DCC9)
+![Swift](https://img.shields.io/badge/Swift-8C3A40?style=for-the-badge&logo=swift&logoColor=F2DCC9)
 
-<h2 align="center">
+### Systems & Workflow
 
-  Systems & Workflow
+![Linux](https://img.shields.io/badge/Linux-8C3A40?style=for-the-badge&logo=linux&logoColor=F2DCC9)
+![Bash](https://img.shields.io/badge/Bash-8C3A40?style=for-the-badge&logo=gnubash&logoColor=F2DCC9)
+![Git](https://img.shields.io/badge/Git-8C3A40?style=for-the-badge&logo=git&logoColor=F2DCC9)
+![GitHub](https://img.shields.io/badge/GitHub-8C3A40?style=for-the-badge&logo=github&logoColor=F2DCC9)
 
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,githubactions" />
+### Documentation
 
-</h2>
-
-<h2 align="center">
-
-  Languages & Tools
-
-  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,swift" />
-
-</h2>
-
-<h2 align="center">
-
-  Documentation
-
-  <img src="https://skillicons.dev/icons?i=markdown,latex" />
-
-</h2>
+![Markdown](https://img.shields.io/badge/Markdown-8C3A40?style=for-the-badge&logo=markdown&logoColor=F2DCC9)
+![LaTeX](https://img.shields.io/badge/LaTeX-8C3A40?style=for-the-badge&logo=latex&logoColor=F2DCC9)
+![Typst](https://img.shields.io/badge/Typst-8C3A40?style=for-the-badge&logo=typst&logoColor=F2DCC9)
 
 <img width="100%"
   src="./assets/section-divider.svg"
