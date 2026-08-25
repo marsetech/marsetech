@@ -13,6 +13,22 @@
   <i>Build it clean, document it well, ship it anyway.</i>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcello-oliva/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-8C3A40?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjRjJEQ0M5IiBoZWlnaHQ9IjgwMHB4IiB3aWR0aD0iODAwcHgiIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZpZXdCb3g9Ii0xNDMgMTQ1IDUxMiA1MTIiIHhtbDpzcGFjZT0icHJlc2VydmUiIGRhdGEtZGFya3JlYWRlci1pbmxpbmUtZmlsbD0iIiBzdHlsZT0iLS1kYXJrcmVhZGVyLWlubGluZS1maWxsOiB2YXIoLS1kYXJrcmVhZGVyLWJhY2tncm91bmQtZjJkY2M5LCAjNGEyYzEyKTsiPgoNPGcgaWQ9IlNWR1JlcG9fYmdDYXJyaWVyIiBzdHJva2Utd2lkdGg9IjAiLz4KDTxnIGlkPSJTVkdSZXBvX3RyYWNlckNhcnJpZXIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgoNPGcgaWQ9IlNWR1JlcG9faWNvbkNhcnJpZXIiPiA8cGF0aCBkPSJNMTEzLDE0NWMtMTQxLjQsMC0yNTYsMTE0LjYtMjU2LDI1NnMxMTQuNiwyNTYsMjU2LDI1NnMyNTYtMTE0LjYsMjU2LTI1NlMyNTQuNCwxNDUsMTEzLDE0NXogTTQxLjQsNTA4LjFILTguNVYzNDguNGg0OS45IFY1MDguMXogTTE1LjEsMzI4LjRoLTAuNGMtMTguMSwwLTI5LjgtMTIuMi0yOS44LTI3LjdjMC0xNS44LDEyLjEtMjcuNywzMC41LTI3LjdjMTguNCwwLDI5LjcsMTEuOSwzMC4xLDI3LjcgQzQ1LjYsMzE2LjEsMzMuOSwzMjguNCwxNS4xLDMyOC40eiBNMjQxLDUwOC4xaC01Ni42di04Mi42YzAtMjEuNi04LjgtMzYuNC0yOC4zLTM2LjRjLTE0LjksMC0yMy4yLDEwLTI3LDE5LjYgYy0xLjQsMy40LTEuMiw4LjItMS4yLDEzLjF2ODYuM0g3MS44YzAsMCwwLjctMTQ2LjQsMC0xNTkuN2g1Ni4xdjI1LjFjMy4zLTExLDIxLjItMjYuNiw0OS44LTI2LjZjMzUuNSwwLDYzLjMsMjMsNjMuMyw3Mi40VjUwOC4xeiAiLz4gPC9nPgoNPC9zdmc+&logoColor=F2DCC9"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:marcello.o.dev@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-8C3A40?style=for-the-badge&logo=gmail&logoColor=F2DCC9"
+      alt="Email"
+    />
+  </a>
+</p>
+
 <img width="100%"
   src="./assets/section-divider.svg"
   alt="section divider"
