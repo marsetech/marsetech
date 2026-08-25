@@ -86,3 +86,19 @@ Most of my hands-on learning happens outside tutorials: building real tools, bre
   src="./assets/section-divider.svg"
   alt="section divider"
 />
+
+# Development Activity ✨️
+
+<p align="center">
+  <img width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=marsetech&rank_icon=github&custom_title=Github%20Statistics&show_icons=true&include_all_commits=true&hide_border=true&title_color=8C3A40&icon_color=8C3A40&bg_color=00000000&text_color=F2DCC9"
+  />
+  <img width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=marsetech&layout=compact&langs_count=6&custom_title=Github%20Top%20Languages&card_width=400&hide_border=true&title_color=8C3A40&icon_color=8C3A40&bg_color=00000000&text_color=F2DCC9&prog_bar_bg_color=00000000"
+  />
+</p>
+
+<img width="100%"
+  src="./assets/section-divider.svg"
+  alt="section divider"
+/>
