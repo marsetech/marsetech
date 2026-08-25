@@ -1,7 +1,9 @@
-<img width=100%
-  src="./assets/hero-banner.webp"
-  alt="hero banner"
-/>
+<p align="center">
+  <img width=100%
+    src="./assets/hero-banner.webp"
+    alt="hero banner"
+  />
+</p>
 
 <h1 align="center">
   Hi, I'm Marcello! 👋
