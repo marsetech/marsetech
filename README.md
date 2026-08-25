@@ -127,6 +127,15 @@ Most of my hands-on learning happens outside tutorials: building real tools, bre
 - Red/crimson theme running through my Hyprland config — inspired by _Classroom of the Elite_
 
 <img width="100%"
-  src="./assets/section-divider.webp"
-  alt="section divider"
+  src="./assets/footer-banner.webp"
+  alt="footer banner"
 />
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Arimo&weight=600&size=22&pause=5000&color=F2DCC9&center=true&width=300&height=35&lines=Keep+learning.+Keep+building."
+      alt="Animated typing"
+    />
+  </a>
+</p>
