@@ -30,8 +30,8 @@
 </p>
 
 <img width="100%"
-  src="./assets/section-divider.webp"
-  alt="section divider"
+  src="./assets/hero-decoration.webp"
+  alt="logo decoration"
 />
 
 # About Me 🙋
