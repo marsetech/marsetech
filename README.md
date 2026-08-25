@@ -30,7 +30,7 @@
 </p>
 
 <img width="100%"
-  src="./assets/section-divider.svg"
+  src="./assets/section-divider.webp"
   alt="section divider"
 />
 
@@ -62,7 +62,7 @@ Most of my hands-on learning happens outside tutorials: building real tools, bre
 - 📖 Balancing coursework with independent, project-driven learning
 
 <img width="100%"
-  src="./assets/section-divider.svg"
+  src="./assets/section-divider.webp"
   alt="section divider"
 />
 
@@ -99,7 +99,7 @@ Most of my hands-on learning happens outside tutorials: building real tools, bre
 ![Typst](https://img.shields.io/badge/Typst-8C3A40?style=for-the-badge&logo=typst&logoColor=F2DCC9)
 
 <img width="100%"
-  src="./assets/section-divider.svg"
+  src="./assets/section-divider.webp"
   alt="section divider"
 />
 
@@ -115,7 +115,7 @@ Most of my hands-on learning happens outside tutorials: building real tools, bre
 </p>
 
 <img width="100%"
-  src="./assets/section-divider.svg"
+  src="./assets/section-divider.webp"
   alt="section divider"
 />
 
@@ -127,6 +127,6 @@ Most of my hands-on learning happens outside tutorials: building real tools, bre
 - Red/crimson theme running through my Hyprland config — inspired by _Classroom of the Elite_
 
 <img width="100%"
-  src="./assets/section-divider.svg"
+  src="./assets/section-divider.webp"
   alt="section divider"
 />
