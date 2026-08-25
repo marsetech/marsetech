@@ -102,3 +102,15 @@ Most of my hands-on learning happens outside tutorials: building real tools, bre
   src="./assets/section-divider.svg"
   alt="section divider"
 />
+
+# Beyond Code 💻️
+
+- Exploring Japanese culture and aesthetics
+- Lofi playlists as my usual coding soundtrack
+- Refining the visual details of my desktop setup, one pixel at a time
+- Red/crimson theme running through my Hyprland config — inspired by _Classroom of the Elite_
+
+<img width="100%"
+  src="./assets/section-divider.svg"
+  alt="section divider"
+/>
