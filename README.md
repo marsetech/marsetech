@@ -38,8 +38,7 @@
 
 # About Me 🙋
 
-- Aspiring junior full-stack developer passionate about building clean, maintainable, and well-documented software, with a strong focus on understanding the reasoning behind how code is structured.
-- I enjoy working across the stack, from designing modern user interfaces to automating development workflows on Linux.
+Junior full-stack developer building clean, well-documented software — comfortable across the stack, from UI design to Linux workflow automation.
 
 ### How I Work
 
