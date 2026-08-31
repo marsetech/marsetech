@@ -42,18 +42,11 @@ Junior full-stack developer building clean, well-documented software — comfort
 
 ### How I Work
 
-I believe good software is built iteratively. You don't need to get everything right on the first try — you need to understand what works, what doesn't, and why. I try to keep this mindset throughout everything I build.
+> _Good software isn't just about writing code. It's about making the next developer's job easier._
 
-<h6 align="center">
-<i>Good software isn't just about writing code. It's about making the next developer's job easier.</i>
-</h6>
-
-Most of my hands-on learning happens outside tutorials: building real tools, breaking them, and rebuilding them with a more thoughtful architecture the second time around. Along the way, I try to follow a few principles:
-
-- **Readable over clever.** If a one-liner needs a comment explaining itself, it's not actually saving anyone time.
-- **Convention over improvisation.** Consistent naming and folder structure across a project matter more once it grows past "just me."
-- **No premature infrastructure.** I don't reach for CI pipelines or containers until a project actually needs them.
-- **Documentation is part of the deliverable**, not an afterthought squeezed in before a deadline.
+- **Readable over clever.**
+- **Convention over improvisation.**
+- **Documentation is part of the deliverable**, not an afterthought.
 
 ### Current Focus
 
