@@ -123,10 +123,11 @@ Most of my hands-on learning happens outside tutorials: building real tools, bre
 
 # Beyond Code 💻️
 
-- Exploring Japanese culture and aesthetics
-- Lofi playlists as my usual coding soundtrack
-- Refining the visual details of my desktop setup, one pixel at a time
-- Red/crimson theme running through my Hyprland config — inspired by _Classroom of the Elite_
+- 🇯🇵 Exploring Japanese culture and aesthetics
+- 🎧 Lofi playlists as my usual coding soundtrack
+- ☕️ Coffee-fueled coding sessions — running mostly on caffeine and mild optimism
+- 🧠 Big into psychological anime, film & TV — Classroom of the Elite tops the list
+- 🌸 Hyprland theme currently inspired by Ayanokoji, staying on brand
 
 <img width="100%"
   src="./assets/footer-banner.webp"
